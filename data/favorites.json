@@ -1,0 +1,26 @@
+[
+  {
+    "name": "London",
+    "country": "United Kingdom",
+    "latitude": 51.50853,
+    "longitude": -0.12574
+  },
+  {
+    "name": "Dhaka",
+    "country": "Bangladesh",
+    "latitude": 23.7104,
+    "longitude": 90.40744
+  },
+  {
+    "name": "Chāndpur",
+    "country": "Bangladesh",
+    "latitude": 23.22714,
+    "longitude": 90.65433
+  },
+  {
+    "name": "New York",
+    "country": "United States",
+    "latitude": 40.71427,
+    "longitude": -74.00597
+  }
+]
