@@ -1,5 +1,4 @@
 # api_based_weather_app
-# 🌦️ Weather Information App
 
 A Python command-line application that allows users to search for a city and view its current weather and air-quality information using Open-Meteo APIs.
 
@@ -40,6 +39,5 @@ The application finds a city's coordinates through the Geocoding API, then uses 
 
 ## 👨‍💻 Author
 
-**Abu Hanif Epty**
-
-A Computer Science student learning Python development and API integration through hands-on projects.
+**Abu Hanif Epty 
+A student of Artificial Intelligence learning Python development and API integration through hands-on projects.
